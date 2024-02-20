@@ -12,5 +12,3 @@ The Code Tutorial is a `.ipynb` (Jupyter Notebook) file. You can easily run this
 
 ---
 
-
-# Causality-Tutorial
